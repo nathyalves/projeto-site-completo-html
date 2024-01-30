@@ -6,5 +6,7 @@ Este é um projeto simples utilizando HTML e um pouco de CSS para o desafio de p
 
 O objetivo deste projeto é aplicar diversos conhecimentos em HTML aprendidos durante o curso para desenvolver o site de uma clínica médica.
 
+Visite aqui: https://nathyalves.github.io/projeto-site-completo-html/
+
 
 
